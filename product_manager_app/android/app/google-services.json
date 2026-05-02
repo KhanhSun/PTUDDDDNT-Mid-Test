@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85143890525",
+    "project_id": "product-manager-app-da74c",
+    "storage_bucket": "product-manager-app-da74c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85143890525:android:a5b1482b814bd40cebfbb4",
+        "android_client_info": {
+          "package_name": "com.example.product_manager_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgDVSh_OIGhQLFoNgFRuTSvelt4ORZi6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
